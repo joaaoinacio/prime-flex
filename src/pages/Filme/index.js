@@ -1,6 +1,6 @@
 function Filme(){
     return(
-        <div>Filmes</div>
+        <div>BEM VINDO A PAGINA DETALHE DE FILMES</div>
     )
 }
 
